@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 
+
+I am Hamid!
+I code and I watch movies. 
 
 <!--
 **hahahamid/hahahamid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

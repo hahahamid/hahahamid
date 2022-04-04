@@ -1,6 +1,7 @@
 ### Hi there 👋 
 
-I am Hamid! ...
+I am Hamid! 
+
 I code and I watch movies. 
 
 <!--

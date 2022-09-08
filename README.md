@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hamid</h1>
 <h3 align="center">I make interesting things which live on the Internet, in real life, or somewhere in between ;)</h3>
 
-- 🌱 I’m currently mastering **Web Development**
+- 🌱 I’m currently dirtying my hands on **Web Development**
 
-- 👯 I’m looking to collaborate on **web development endeavors**
+- 👯 I’m looking to collaborate on **Competitive Programming Endeavors**
 
 - 🤝 I’m looking for help with **starting blockchain development and solidity**
 
@@ -11,7 +11,7 @@
 
 - 📫 You can reach me at **miranhamid2002@gmail.com**
 
-- ⚡ Fun fact **I have cracked the Instagram Algorithm, and I can somehow make any account go viral lol**
+- ⚡ Fun fact **I have cracked the Instagram Algorithm multiple times, and I can somehow make any account go viral lol**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

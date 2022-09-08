@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Hamid</h1>
-<h3 align="center">All I do is solve CP problems and I watch movies </h3>
 <h3 align="center">I make interesting things which live on the Internet, in real life, or somewhere in between ;)</h3>
 
 - 🌱 I’m currently dirtying my hands on **Web Development**
